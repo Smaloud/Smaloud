@@ -50,7 +50,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Smaloud&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smaloud&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Smaloud&theme=radical&background=00000000&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
