@@ -11,7 +11,7 @@
 - 🏫 **University**: [Southern University of Science and Technology(SUSTech)](https://twww.sustech.edu.cn/?lang=zh), [OISLab](http://shaolab.com)
 - 🎓 **Education**: Senior Student
 - 💼 **Profession**: Optoelectronics & Info Engineering under [the Department of Electronic and Electrical Engineering](https://eee.sustech.edu.cn/?view)
-- 🌍 **Location**: [Shenzhen, China]
+- 🌍 **Location**: Shenzhen, China
 - 😺 **Personal Page**:
 
 
@@ -50,8 +50,8 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Smaloud&show_icons=true&theme=default" alt="GitHub Stats" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smaloud&layout=compact&theme=default" alt="Top Languages" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Smaloud&show_icons=true&theme=default" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smaloud&layout=compact&theme=default" alt="Top Languages" height="170" />
 </div>
 
 ## 📚 Course Projects
