@@ -58,13 +58,15 @@
 
 ### 🎓 Academic Projects Timeline
 
-<table>
+<div align="center">
+
+<table width="100%" style="border-collapse: collapse; min-width: 600px;">
   <thead>
     <tr>
-      <th align="center">📅 Time</th>
-      <th align="center">📖 Course</th>
-      <th align="center">🧪 Lab</th>
-      <th align="center">💻 Project</th>
+      <th align="center" width="15%">📅 Time</th>
+      <th align="center" width="35%">📖 Course</th>
+      <th align="center" width="25%">🧪 Lab</th>
+      <th align="center" width="25%">💻 Project</th>
     </tr>
   </thead>
   <tbody>
@@ -224,6 +226,8 @@
     </tr>
   </tbody>
 </table>
+
+</div>
 
 ## 📫 Get In Touch
 
